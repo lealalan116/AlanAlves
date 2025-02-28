@@ -1,0 +1,25 @@
+Gerenciamento e Controle de Atividades no Desenvolvimento de Software
+
+Este repositório tem como objetivo organizar e acompanhar as atividades do desenvolvimento de software, garantindo um fluxo de trabalho eficiente e bem documentado.
+
+Estrutura do Repositório
+
+/documentação/: Contém documentos e artefatos do projeto.
+
+/código/: Diretório onde o código-fonte será armazenado.
+
+/tarefas/: Backlog, sprints e acompanhamento de progresso.
+
+Como Utilizar
+
+Criar Tarefas: Utilize a pasta /tarefas/ para adicionar novas atividades.
+
+Atualizar Progresso: Registre mudanças e avanços para manter o time alinhado.
+
+Documentar Decisões: Armazene informações importantes na pasta /documentação/.
+
+Contribuição
+
+Utilize issues para reportar problemas ou sugerir melhorias.
+
+Siga o padrão de commits para manter o histórico organizado.
