@@ -1,25 +1,7 @@
-Gerenciamento e Controle de Atividades no Desenvolvimento de Software
+Escolha da Ferramenta de Gestão de Configuração em Nuvem** - Ferramentas como **Azure DevOps, GitHub, GitLab, AWS CodeCommit ou Bitbucket** podem ser utilizadas, dependendo da necessidade de rastreabilidade e integração com outros sistemas. - Soluções de **ITSM (ex.: ServiceNow, BMC Helix)** também podem ser consideradas para governança centralizada. 
+Estruturação do Repositório** - Criar uma estrutura de **pastas padronizadas** para diferentes tipos de artefatos (documentação, código-fonte, scripts de automação, modelos de processos, relatórios de auditoria, etc.). - Utilizar **versionamento** e **controle de mudanças** seguindo princípios do ITIL (Gestão de Configuração e Mudanças). - Implementar **tags e branch policies** para categorizar versões e garantir conformidade.
+Governança e Conformidade (ITIL e COBIT)** - Definir **políticas de acesso** com base em **papéis e responsabilidades** (RBAC – Role-Based Access Control). - Estabelecer **fluxos de aprovação para mudanças** com base nas diretrizes do ITIL e COBIT. - Garantir auditoria e rastreabilidade completa das alterações nos artefatos do projeto.
+Gestão de Configuração e Rastreabilidade** - Manter um **CMDB (Configuration Management Database)** integrado ao repositório para rastrear dependências e versões dos componentes do projeto. - Garantir a integridade dos artefatos e registros de mudança.
+*5. Aspectos Ambientais e Sustentabilidade (Environmental)** - Preferência por **provedores de nuvem sustentáveis** (AWS, Azure, Google Cloud possuem iniciativas de neutralidade de carbono). - Implementação de **políticas de retenção e arquivamento** para evitar consumo excessivo de armazenamento desnecessário. - Uso de **automação e otimização de recursos** para reduzir impacto ambienta
 
-Este repositório tem como objetivo organizar e acompanhar as atividades do desenvolvimento de software, garantindo um fluxo de trabalho eficiente e bem documentado.
 
-Estrutura do Repositório
-
-/documentação/: Contém documentos e artefatos do projeto.
-
-/código/: Diretório onde o código-fonte será armazenado.
-
-/tarefas/: Backlog, sprints e acompanhamento de progresso.
-
-Como Utilizar
-
-Criar Tarefas: Utilize a pasta /tarefas/ para adicionar novas atividades.
-
-Atualizar Progresso: Registre mudanças e avanços para manter o time alinhado.
-
-Documentar Decisões: Armazene informações importantes na pasta /documentação/.
-
-Contribuição
-
-Utilize issues para reportar problemas ou sugerir melhorias.
-
-Siga o padrão de commits para manter o histórico organizado.
